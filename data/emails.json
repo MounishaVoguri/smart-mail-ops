@@ -1,0 +1,50 @@
+[
+  {
+    "id": "E001",
+    "sender": "vendor@abccompany.com",
+    "subject": "Invoice INV-102",
+    "body": "Please find attached invoice INV-102 for the March services. Kindly process the invoice."
+  },
+  {
+    "id": "E002",
+    "sender": "customer@example.com",
+    "subject": "Payment not received",
+    "body": "I made a payment of $2500 yesterday but the payment has not been reflected in my account."
+  },
+  {
+    "id": "E003",
+    "sender": "customer@example.com",
+    "subject": "Unauthorized charge dispute",
+    "body": "I want to dispute an unauthorized charge that appeared on my account."
+  },
+  {
+    "id": "E004",
+    "sender": "winner@unknown.com",
+    "subject": "Congratulations! You won!",
+    "body": "Congratulations! You have won free money. Click now to claim your lottery prize."
+  },
+  {
+    "id": "E005",
+    "sender": "customer@example.com",
+    "subject": "Problem with my account",
+    "body": "Something is wrong with my account. Please help me resolve this issue."
+  },
+  {
+    "id": "E006",
+    "sender": "vendor@xyzcompany.com",
+    "subject": "March invoice submission",
+    "body": "Attached is our billing document for the services provided during March."
+  },
+  {
+    "id": "E007",
+    "sender": "customer@example.com",
+    "subject": "Question about my transaction",
+    "body": "Can you tell me what happened to my recent transaction?"
+  },
+  {
+    "id": "E008",
+    "sender": "customer@example.com",
+    "subject": "Dispute charge on card",
+    "body": "I believe this charge is incorrect and would like to dispute it."
+  }
+]

@@ -1,0 +1,5 @@
+streamlit==1.62.0
+pandas==3.0.5
+numpy==2.5.2
+python-dotenv==1.2.3
+openai==3.3.1
